@@ -18,4 +18,5 @@ remove-docker:
 	docker image rm cakephp-5-dockerized-server
 
 add-cake-seeds:
-	cd app; bin/cake bake seed Users bin/cake bake seed Articles
+	cd app; bin/cake bake seed Users
+	cd app; bin/cake bake seed Articles
