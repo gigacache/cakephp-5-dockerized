@@ -1,6 +1,6 @@
 # CakePHP 5 Application Dockerized
 
-Had real trouble with this, My pain is your gain.
+Get Baking....
 
 ## What is CakePHP?
 
